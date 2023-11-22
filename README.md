@@ -25,3 +25,13 @@ implemented the dark mode toggle using react contexts, to avoid prop drilling as
 3D. Since the problem seemed so simple, I also did this one. Modern layouts like these are usually done with flexbox or
 grid, so those were what I also used. Using tables is almost never a good idea. Using tailwind made the media query
 breakpoint easy and clean to implement.
+
+## Getting Started
+
+All the solutions are inside one react app. To run the app, run `npm install` and then `npm start`.
+
+## Screenshots
+
+![Screenshot 1](./images/screenshot-1.png)
+
+![Screenshot 2](./images/screenshot-2.png)
